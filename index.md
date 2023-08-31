@@ -4,6 +4,10 @@ layout: default
 
 ## **Home** | [Apply](./apply.html) | [CyberCamp](./cybercamp.html) | [Blog](./blog.html) | [Contacts](./contacts.html) | [Resources](./resources.html) | [Tech Caregiver](./techcg.html) | [Events](./events.html)
 
+# OUTDATED SITE: Sorry for the inconvenience, the website domain has been changed, the new website is at: [https://titanturtles.org/](https://titanturtles.org/)
+
+
+
 # Open House and Recruiting
 
 [Click Here to Apply](./apply.html)
